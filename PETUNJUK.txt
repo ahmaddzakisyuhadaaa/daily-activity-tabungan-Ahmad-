@@ -1,0 +1,16 @@
+DAILY ACTIVITY & TABUNGAN — VERSI WEB APP
+
+Isi folder ini adalah aplikasi web yang dapat dipasang ke layar utama Android.
+
+PENTING: Agar Chrome menawarkan pemasangan seperti aplikasi, folder ini harus diunggah ke hosting HTTPS (misalnya GitHub Pages). Membuka index.html langsung dari file manager tidak cukup untuk pemasangan/offline.
+
+SETELAH APLIKASI ONLINE:
+1. Buka alamat website aplikasi menggunakan Google Chrome di Android.
+2. Ketuk menu ⋮ di kanan atas.
+3. Pilih "Tambahkan ke layar utama" atau "Install app".
+4. Ketuk Tambahkan/Install.
+5. Ikon Daily & Tabungan akan muncul di layar utama.
+
+Data checklist dan catatan setoran disimpan di penyimpanan browser pada HP tersebut. Jangan hapus data situs/browser jika ingin mempertahankannya.
+
+Untuk menerbitkan, unggah SEMUA isi folder ini ke layanan hosting statis HTTPS. Jangan hanya unggah index.html; data.json, manifest.webmanifest, sw.js, dan ikon juga diperlukan.
